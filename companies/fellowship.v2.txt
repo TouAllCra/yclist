@@ -98,3 +98,7 @@ The Flex Company
 Zube
   https://zube.io
   Project management for Github issues
+
+Nano Banana
+  https://www.nanobanana.life
+  Nano Banana is the fastest AI image editor that allows users to edit photos by simply typing what they want, making photo editing accessible and fun for everyone.
